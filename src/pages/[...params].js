@@ -5,7 +5,7 @@ function otherLinks() {
   return (
     <>
       <h2>
-        <Link href="/https://portfolio-app-baky.vercel.app/">
+        <Link href="https://portfolio-app-baky.vercel.app">
           Back to Homepage
         </Link>
       </h2>
